@@ -11,6 +11,7 @@ public class GitNewCode {
 	{
 System.out.println("I am new code");
 System.out.println("I am first code");
+System.out.println("I am Second code");
 
 	}
 }
