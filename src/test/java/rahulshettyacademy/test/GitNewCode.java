@@ -10,6 +10,7 @@ public class GitNewCode {
 	public void Newcode()
 	{
 System.out.println("I am new code");
+System.out.println("I am first code");
 
 	}
 }
