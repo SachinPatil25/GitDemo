@@ -30,6 +30,15 @@ System.out.println("fourth code");
 System.out.println("sixth code");
 
 	}
+	
+	@Test
+	public void Newcodeba()
+	{
+System.out.println("Eight code");
+System.out.println("Nine code");
+System.out.println("Ten code");
+
+	}
 }
 
 
