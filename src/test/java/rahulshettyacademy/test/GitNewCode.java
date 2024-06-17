@@ -14,6 +14,22 @@ System.out.println("I am first code");
 System.out.println("I am Second code");
 
 	}
+	@Test
+	public void Newcodea()
+	{
+System.out.println(" code");
+System.out.println("first code");
+System.out.println("Second code");
+
+	}
+	@Test
+	public void Newcodeb()
+	{
+System.out.println("third code");
+System.out.println("fourth code");
+System.out.println("sixth code");
+
+	}
 }
 
 
